@@ -11,3 +11,5 @@ git add (nome do arquivo): Cria requisição para adicionar o arquivo ao reposit
 git commit -m "uma mensagem detalhando tudo que foi alterado"
 git push: Finaliza o upload
 git pull: Atualiza o repositório local
+
+Teste para ver como commita pelo próprio visual studio
