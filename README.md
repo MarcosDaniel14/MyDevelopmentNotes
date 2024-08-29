@@ -1,6 +1,6 @@
-# tutorialGIT
+# Development Notes
 
-Como utilizar o Git e GitHUB
+Como utilizar GitHUB
 
 Comandos GitBash:
 pwd: Visualizar em qual diretório você está
