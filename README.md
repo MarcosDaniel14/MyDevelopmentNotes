@@ -1,4 +1,4 @@
-# Development Notes
+# Learning Notes
 
 Como utilizar GitHUB
 
