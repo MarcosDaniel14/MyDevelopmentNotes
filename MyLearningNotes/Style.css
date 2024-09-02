@@ -1,0 +1,41 @@
+*{
+    background-color: black;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+.titulo{
+    text-align: center;
+    font-size: 1.5em;
+}
+/*Parte da guia para as páginas*/
+.guiaPags{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.html{
+    background-color: #d93a00;
+    padding:0.5rem 1.8rem;
+    margin: 0.2rem 0.2rem;
+    width: 30%;
+    border-radius: 15px;
+}
+.css{
+    background-color: #000ed9;
+    padding:0.5rem 1.8rem;
+    margin: 0.2rem;
+    width: 30%;
+    border-radius: 15px;
+}
+.js{
+    background-color: #d9cb00;
+    padding:0.5rem 1.8rem;
+    margin: 0.2rem;
+    width: 30%;
+    border-radius: 15px;
+}
+
